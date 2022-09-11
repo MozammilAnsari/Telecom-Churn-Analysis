@@ -13,3 +13,5 @@ Churn rate is more with customer using international plan. As only 323 customer 
 
 # Churn according to Customer Care Calls
 Churn rate for Customer neither having voicemail plan nor international plan is 9.06%. Churning rate for customer having International plan but don’t have voicemail plan is 3.03% out of 6.93% customers. Churning of customer having both voicemail plan & international plan is 1.08% out of 2.76% customer care calls vise
+# Collinear Plot
+‘Total day minutes’ and ‘total day charges’ are highly correlated ‘Total eve minutes’ and ‘total eve charges’ are highly correlated ‘Total night minutes’ and ‘total night charges’ are highly correlated ‘Total intl minutes’ and ‘total intl charges’ are highly correlated correlation plot_py

@@ -15,3 +15,21 @@ Churn rate is more with customer using international plan. As only 323 customer 
 Churn rate for Customer neither having voicemail plan nor international plan is 9.06%. Churning rate for customer having International plan but don’t have voicemail plan is 3.03% out of 6.93% customers. Churning of customer having both voicemail plan & international plan is 1.08% out of 2.76% customer care calls vise
 # Collinear Plot
 ‘Total day minutes’ and ‘total day charges’ are highly correlated ‘Total eve minutes’ and ‘total eve charges’ are highly correlated ‘Total night minutes’ and ‘total night charges’ are highly correlated ‘Total intl minutes’ and ‘total intl charges’ are highly correlated correlation plot_py
+# Distribution of variables
+Most of thevariables are normally distributed. nr1
+
+# Solution to Reduce Customer Churn
+Modify International Plan as the charge is same as normal one. Be proactive with communication. Ask for feedback often. Periodically throw Offers to retain customers. Look at the customers facing problem in the most churning states. Lean into best customers. Regular Server Maintenance. Solving Poor Network Connectivity Issue. Define a roadmap for new customers. Analyze churn when it happens. Stay competitive.
+
+# Conclusion
+The four charge fields are linear functions of the minute fields.
+
+The area code field and/or the state field are anomalous, and can be omitted.
+
+Customers with the International Plan tend to churn more frequently.
+
+Customers with four or more customer service calls churn more than four times as often as do the other customers.
+
+Customers with high day minutes and evening minutes tend to churn at a higher rate than do the other customers.
+
+There is no obvious association of churn with the variables evening calls, night calls, international calls, night minutes, international minutes, account length.
